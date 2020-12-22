@@ -1,3 +1,8 @@
 pandas==1.0.5
 pandas_gbq==0.13.2
 xlrd==1.2.0
+numpy==1.18.5
+pyarrow==1.0.1
+google-cloud-bigquery-storage==2.1.0
+google-cloud-bigquery==1.22.0
+tqdm==4.47.0
